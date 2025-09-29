@@ -1,0 +1,15 @@
+Goal: Estimate the productivity score for each team in a garment factory!
+
+- date: Date of the assessment
+- day: Day of the Week
+- quarter: The quarter of the year when the data was recorded (e.g., Quarter1, Quarter2)
+- Team Code: A unique identifier for the team.
+- smv: Standard Minute Value, a measure of the time allocated for a task.
+- wip: Work In Progress, the number of products that are unfinished.
+- over_time: The amount of overtime worked, measured in minutes.
+- incentive: The incentive provided to the workers, measured in USD.
+- idle_time: The amount of time workers were idle, measured in minutes.
+- idle_men: The number of workers who were idle.
+- no_of_style_change: The number of style changes that occurred.
+- no_of_workers: The total number of workers.
+- productivity_score: The productivity score of the team, measured as a percentage.
